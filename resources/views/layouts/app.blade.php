@@ -64,6 +64,7 @@
     if($segment != 'faq')
     {
     @endphp
+        <script src="{{ url('js/app.js') }}" defer></script>
     @php
     }
     else{
@@ -76,19 +77,8 @@
     <link rel="dns-prefetch" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet" type="text/css">
 
+  <link rel="stylesheet" type="text/css" href="{{ url('css/app.css') }}">
 
-  <link rel="stylesheet" href="{{ url('css/app.css') }}">
-<?php /*
-  <link rel="stylesheet" href="{{ url('css/bootsnav.css') }}">
-
-  <link rel="stylesheet" type="text/css" href="{{ url('css/font-awesome.min.css') }}">
-
-  <link rel="stylesheet" type="text/css" href="{{ url('css/animate.css') }}">
-
-  <link rel="stylesheet" type="text/css" href="{{ url('css/owl.carousel.min.css') }}">
-
-  <link rel="stylesheet" type="text/css" href="{{ url('css/main.css') }}">
-*/?>
     @if (isset($recaptcha) && $recaptcha === true)
         <script src='https://www.google.com/recaptcha/api.js?render={{ env("GRECAPTCHA_SITE_KEY") }}'></script>
     @endif
@@ -317,8 +307,13 @@
 
   </footer>
 
-  <script src="{{ url('js/app.js') }}"></script>
+  <script src="{{ url('js/jquery.min.js') }}"></script>
 
+  <script src="{{ url('js/bootstrap.min.js') }}"></script>
+
+  <script src="{{ url('js/bootsnav.js') }}"></script>
+
+  <script src="{{ url('js/owl.carousel.min.js') }}"></script>
 
   <script type="text/javascript">
 
