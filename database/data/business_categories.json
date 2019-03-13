@@ -1,0 +1,287 @@
+{
+    "1": {
+        "name": "Agriculture and Mining",
+        "categories" : {
+             "1" : { "name": "Farming and Ranching", "enterable": false},
+             "2" : { "name": "Fishing, Hunting and Forestry and Logging", "enterable": false},
+             "3" : { "name": "Mining and Quarrying", "enterable": false},
+             "4" : { "name": "Agriculture & Mining Other", "enterable": true}
+        }
+    },
+    "2": {
+        "name" : "Business Services",
+        "categories": {
+             "5" : { "name": "Accounting and Tax Preparation", "enterable": false},
+             "6" : { "name": "Advertising, Marketing and PR", "enterable": false},
+             "7" : { "name": "Data and Records Management", "enterable": false},
+             "8" : { "name": "Facilities Management and Maintenance", "enterable": false},
+             "9" : { "name": "HR and Recruiting Services", "enterable": false},
+            "10" : { "name": "Legal Services", "enterable": false},
+            "11" : { "name": "Management Consulting", "enterable": false},
+            "12" : { "name": "Payroll Services", "enterable": false},
+            "13" : { "name": "Sales Services", "enterable": false},
+            "14" : { "name": "Security Services", "enterable": false},
+            "15" : { "name": "Business Services Other", "enterable": true}
+        }
+    },
+    "3": {
+        "name" : "Computer and Electronics",
+        "categories": {
+            "16" : { "name": "Audio, Video and Photography", "enterable": false},
+            "17" : { "name": "Computers, Parts and Repair", "enterable": false},
+            "18" : { "name": "Consumer Electronics, Parts and Repair", "enterable": false},
+            "19" : { "name": "IT and Network Services and Support", "enterable": false},
+            "20" : { "name": "Instruments and Controls", "enterable": false},
+            "21" : { "name": "Network Security Products", "enterable": false},
+            "22" : { "name": "Networking equipment and Systems", "enterable": false},
+            "23" : { "name": "Office Machinery and Equipment", "enterable": false},
+            "24" : { "name": "Peripherals Manufacturing", "enterable": false},
+            "25" : { "name": "Semiconductor and Microchip Manufacturing", "enterable": false},
+            "26" : { "name": "Computer and Electronics Other", "enterable": true}
+        }
+    },
+    "4": {
+        "name" : "Consumer Services",
+        "categories": {
+            "27" : { "name": "Automotive Repair and Maintenance", "enterable": false},
+            "28" : { "name": "Funeral Homes and Services", "enterable": false},
+            "29" : { "name": "Laundry and Dry Cleaning", "enterable": false},
+            "30" : { "name": "Parking Lots and Garage Management", "enterable": false},
+            "31" : { "name": "Personal Care", "enterable": false},
+            "32" : { "name": "Photofinishing Services", "enterable": false},
+            "33" : { "name": "Consumer Services Other", "enterable": true}
+        }
+    },
+    "5": {
+        "name" : "Education",
+        "categories": {
+            "34" : { "name": "Colleges and Universities", "enterable": false},
+            "35" : { "name": "Elementary and Secondary Schools", "enterable": false},
+            "36" : { "name": "Libraries, Archives and Museums", "enterable": false},
+            "37" : { "name": "Sports, Arts, and Recreation Instruction", "enterable": false},
+            "38" : { "name": "Technical and Trade Schools", "enterable": false},
+            "39" : { "name": "Test Preparation", "enterable": false},
+            "40" : { "name": "Education Other", "enterable": true}
+        }
+    },
+    "6": {
+        "name" : "Energy and Utilities",
+        "categories": {
+            "41" : { "name": "Alternative Energy Sources", "enterable": false},
+            "42" : { "name": "Gas and Electric Utilities", "enterable": false},
+            "43" : { "name": "Gasoline and Oil Refineries", "enterable": false},
+            "44" : { "name": "Sewage Treatment Facilities", "enterable": false},
+            "45" : { "name": "Waste Management and Recycling", "enterable": false},
+            "46" : { "name": "Water Treatment and Utilities", "enterable": false},
+            "47" : { "name": "Energy and Utilities Other", "enterable": true}
+        }
+    },
+    "7": {
+        "name" : "Financial Services",
+        "categories": {
+            "48" : { "name": "Banks", "enterable": false},
+            "49" : { "name": "Credit Cards and Related Services", "enterable": false},
+            "50" : { "name": "Credit Unions", "enterable": false},
+            "51" : { "name": "Insurance and Risk Management", "enterable": false},
+            "52" : { "name": "Investment Banking and Venture Capital", "enterable": false},
+            "53" : { "name": "Lending and Mortgage", "enterable": false},
+            "54" : { "name": "Personal Financial Planning and Private Banking", "enterable": false},
+            "55" : { "name": "Securities Agents and Brokers", "enterable": false},
+            "56" : { "name": "Trust, Fiduciary, and Custody Activities", "enterable": false},
+            "57" : { "name": "Financial Services Other", "enterable": true}
+        }
+    },
+    "8": {
+        "name" : "Government",
+        "categories": {
+            "58" : { "name": "International Bodies and Organizations", "enterable": false},
+            "59" : { "name": "Local Government", "enterable": false},
+            "60" : { "name": "National Government", "enterable": false},
+            "61" : { "name": "State/Provincial Government", "enterable": false},
+            "62" : { "name": "Government Other", "enterable": true}
+        }
+    },
+    "9": {
+        "name" : "Health, Pharmaceuticals, and Biotech",
+        "categories": {
+            "63" : { "name": "Biotechnology", "enterable": false},
+            "64" : { "name": "Diagnostic Laboratories", "enterable": false},
+            "65" : { "name": "Doctors and Health Care Practitioners", "enterable": false},
+            "66" : { "name": "Hospitals", "enterable": false},
+            "67" : { "name": "Medical Devices", "enterable": false},
+            "68" : { "name": "Medical Supplies and Equipment", "enterable": false},
+            "69" : { "name": "Outpatient Care Centers", "enterable": false},
+            "70" : { "name": "Personal Health Care Products", "enterable": false},
+            "71" : { "name": "Pharmaceuticals", "enterable": false},
+            "72" : { "name": "Residential and Long-term Care Facilities", "enterable": false},
+            "73" : { "name": "Veterinary Clinics and Services", "enterable": false},
+            "74" : { "name": "Health, Pharmaceuticals, and Biotech Other", "enterable": true}
+        }
+    },
+    "10": {
+        "name" : "Manufacturing",
+        "categories": {
+            "75" : { "name": "Aerospace and Defense", "enterable": false},
+            "76" : { "name": "Alcoholic Beverages", "enterable": false},
+            "77" : { "name": "Automobiles, Boats and Motor Vehicles", "enterable": false},
+            "78" : { "name": "Chemicals and Petrochemicals", "enterable": false},
+            "79" : { "name": "Concrete, Glass and Building Materials", "enterable": false},
+            "80" : { "name": "Farming and Mining Machinery and Equipment", "enterable": false},
+            "81" : { "name": "Food and Dairy Product Manufacturing and Packaging", "enterable": false},
+            "82" : { "name": "Furniture Manufacturing", "enterable": false},
+            "83" : { "name": "Metals Manufacturing", "enterable": false},
+            "84" : { "name": "Nonalcoholic Beverages", "enterable": false},
+            "85" : { "name": "Paper and Paper Products", "enterable": false},
+            "86" : { "name": "Plastics and Rubber Manufacturing", "enterable": false},
+            "87" : { "name": "Textiles, Apparel and Accessories", "enterable": false},
+            "88" : { "name": "Tools, Hardware and Light Machinery", "enterable": false},
+            "89" : { "name": "Manufacturing Other", "enterable": true}
+        }
+    },
+    "11": {
+        "name" : "Media and Entertainment",
+        "categories": {
+            "90" : { "name": "Adult Entertainment", "enterable": false},
+            "91" : { "name": "Motion Picture Exhibitors", "enterable": false},
+            "92" : { "name": "Motion Picture and Recording Producers", "enterable": false},
+            "93" : { "name": "Newspapers, Books, and Periodicals", "enterable": false},
+            "94" : { "name": "Performing Arts", "enterable": false},
+            "95" : { "name": "Radio, Television Broadcasting", "enterable": false},
+            "96" : { "name": "Media and Entertainment Other", "enterable": true}
+        }
+    },
+    "12": {
+        "name" : "Non-profit",
+        "categories": {
+            "97" : { "name": "Advocacy Organizations", "enterable": false},
+            "98" : { "name": "Charitable Organizations and Foundations", "enterable": false},
+            "99" : { "name": "Professional Associations", "enterable": false},
+            "100" : { "name": "Religious Organizations", "enterable": false},
+            "101" : { "name": "Social and Membership Organizations", "enterable": false},
+            "102" : { "name": "Trade Groups and Labor Unions", "enterable": false},
+            "103" : { "name": "Non-profit Other", "enterable": true}
+        }
+    },
+    "13": {
+        "name" : "Real Estate and Construction",
+        "categories": {
+            "104" : { "name": "Architecture, Engineering and Design", "enterable": false},
+            "105" : { "name": "Construction Equipment and Supplies", "enterable": false},
+            "106" : { "name": "Construction and Remodeling", "enterable": false},
+            "107" : { "name": "Property Leasing and Management", "enterable": false},
+            "108" : { "name": "Real Estate Agents and Appraisers", "enterable": false},
+            "109" : { "name": "Real Estate Investment and Development", "enterable": false},
+            "110" : { "name": "Real Estate and Construction Other", "enterable": true}
+        }
+    },
+    "14": {
+        "name" : "Retail",
+        "categories": {
+            "111" : { "name": "Automobile Dealers", "enterable": false},
+            "112" : { "name": "Automobile Parts and Supplies", "enterable": false},
+            "113" : { "name": "Beer, Wine and Liquor Stores", "enterable": false},
+            "114" : { "name": "Clothing and Shoe Stores", "enterable": false},
+            "115" : { "name": "Department Stores", "enterable": false},
+            "116" : { "name": "Florist", "enterable": false},
+            "117" : { "name": "Furniture Stores", "enterable": false},
+            "118" : { "name": "Gasoline Stations", "enterable": false},
+            "119" : { "name": "Grocery and Specialty Stores", "enterable": false},
+            "120" : { "name": "Hardware and Building Material Dealers", "enterable": false},
+            "121" : { "name": "Jewelry, Luggage, and Leather Goods", "enterable": false},
+            "122" : { "name": "Office Supplies Stores", "enterable": false},
+            "123" : { "name": "Restaurants and Bars", "enterable": false},
+            "124" : { "name": "Sporting Goods, Hobby, Books and Music Stores", "enterable": false},
+            "125" : { "name": "Retail Others", "enterable": true}
+        }
+    },
+    "15": {
+        "name" : "Software and Internet",
+        "categories": {
+            "126" : { "name": "Data Analytics, Management, and Internet", "enterable": false},
+            "127" : { "name": "E-Commerce and Internet Business", "enterable": false},
+            "128" : { "name": "Games and Gaming", "enterable": false},
+            "129" : { "name": "Software", "enterable": false},
+            "130" : { "name": "Software and Internet Other", "enterable": true}
+        }
+    },
+    "16": {
+        "name" : "Technology",
+        "categories": {
+            "131" : { "name": "AI, Robotics, Cybersercurity", "enterable": false},
+            "132" : { "name": "Blockchain", "enterable": false},
+            "133" : { "name": "Consumer e-commerce, CPG, & Adtech", "enterable": false},
+            "134" : { "name": "Construction-tech, Real estate-tech", "enterable": false},
+            "135" : { "name": "Design", "enterable": false},
+            "136" : { "name": "Family/Edtech", "enterable": false},
+            "137" : { "name": "Food-tech, Health-tech, Beauty-tech", "enterable": false},
+            "138" : { "name": "IoT, Hardware, Drones, 3D print", "enterable": false},
+            "139" : { "name": "Online video/media", "enterable": false},
+            "140" : { "name": "Payments and Fintech", "enterable": false},
+            "141" : { "name": "Travel-tech, Smart cities", "enterable": false},
+            "142" : { "name": "Web service, SMB, Cloud services", "enterable": false},
+            "143" : { "name": "VR/AR/MR", "enterable": false},
+            "144" : { "name": "Technology Others", "enterable": true}
+        }
+    },
+    "17": {
+        "name" : "Telecommunications",
+        "categories": {
+            "145" : { "name": "Cable and Television Providers", "enterable": false},
+            "146" : { "name": "Telecommunications Equipment and Accessories", "enterable": false},
+            "147" : { "name": "Telephone Service Providers and Carriers", "enterable": false},
+            "148" : { "name": "Video and Teleconferencing", "enterable": false},
+            "149" : { "name": "Wireless and Mobile", "enterable": false},
+            "150" : { "name": "Telecommunications Other", "enterable": true}
+        }
+    },
+    "18": {
+        "name" : "Transportation and Storage",
+        "categories": {
+            "151" : { "name": "Air Couriers and Caro Services", "enterable": false},
+            "152" : { "name": "Airport, Harbor, and Terminal Operations", "enterable": false},
+            "153" : { "name": "Freight Hauling (Rail and Truck)", "enterable": false},
+            "154" : { "name": "Marine and Inland Shipping", "enterable": false},
+            "155" : { "name": "Moving Companies and Services", "enterable": false},
+            "156" : { "name": "Postal, Express Delivery and Couriers", "enterable": false},
+            "157" : { "name": "Warehousing and Storage", "enterable": false},
+            "158" : { "name": "Transportation and Storage Other", "enterable": true}
+        }
+    },
+    "19": {
+        "name" : "Travel Recreation and Leisure",
+        "categories": {
+            "159" : { "name": "Amusement Parks and Attractions", "enterable": false},
+            "160" : { "name": "Cruise Ship Operations", "enterable": false},
+            "161" : { "name": "Gambling and Gaming Lodging", "enterable": false},
+            "162" : { "name": "Participatory Sports and Recreation", "enterable": false},
+            "163" : { "name": "Passenger Airlines", "enterable": false},
+            "164" : { "name": "Rental Cars", "enterable": false},
+            "165" : { "name": "Resorts and Casinos", "enterable": false},
+            "166" : { "name": "Spectator Sports and Teams", "enterable": false},
+            "167" : { "name": "Taxi, Buses and Transit Systems", "enterable": false},
+            "168" : { "name": "Travel Agents and Services", "enterable": false},
+            "169" : { "name": "Travel, Recreations and Leisure Other", "enterable": true}
+        }
+    },
+    "20": {
+        "name" : "Wholesale and Distribution",
+        "categories": {
+            "170" : { "name": "Apparel Wholesalers", "enterable": false},
+            "171" : { "name": "Automobile Parts Wholesalers", "enterable": false},
+            "172" : { "name": "Beer, Wine and Liquor Wholesalers", "enterable": false},
+            "173" : { "name": "Chemicals and Plastics Wholesalers", "enterable": false},
+            "174" : { "name": "Grocery and Food Wholesalers", "enterable": false},
+            "175" : { "name": "Lumber and Construction Materials Wholesalers", "enterable": false},
+            "176" : { "name": "Metal and Mineral Wholesalers", "enterable": false},
+            "177" : { "name": "Office Equipment and Suppliers Wholesalers", "enterable": false},
+            "178" : { "name": "Petroleum Products Wholesalers", "enterable": false},
+            "179" : { "name": "Wholesale and Distribution Other", "enterable": true}
+        }
+    },
+    "21": {
+        "name" : "Other",
+        "categories": {
+            "180" : { "name": "Other", "enterable": true}
+        }
+    }
+}
