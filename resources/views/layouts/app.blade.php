@@ -64,7 +64,6 @@
     if($segment != 'faq')
     {
     @endphp
-//        <script src="{{ url('js/app.js') }}" defer></script>
     @php
     }
     else{
